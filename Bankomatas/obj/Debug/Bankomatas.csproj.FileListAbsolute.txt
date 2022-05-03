@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Bankomatas\Bankomatas\bin\Debug\Bankomatas.exe.config
+C:\Users\User\source\repos\Bankomatas\Bankomatas\bin\Debug\Bankomatas.exe
+C:\Users\User\source\repos\Bankomatas\Bankomatas\bin\Debug\Bankomatas.pdb
+C:\Users\User\source\repos\Bankomatas\Bankomatas\obj\Debug\Bankomatas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Bankomatas\Bankomatas\obj\Debug\Bankomatas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Bankomatas\Bankomatas\obj\Debug\Bankomatas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bankomatas\Bankomatas\obj\Debug\Bankomatas.exe
+C:\Users\User\source\repos\Bankomatas\Bankomatas\obj\Debug\Bankomatas.pdb
